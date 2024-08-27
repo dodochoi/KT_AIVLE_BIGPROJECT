@@ -12,6 +12,5 @@
 ### 📖 설명
 
 - **프로젝트 개요**: 이 프로젝트는 AI를 활용하여 아이들의 상상력을 자극하는 맞춤형 동화책을 생성하는 플랫폼입니다. 사용자는 간단한 입력을 통해 AI가 생성한 동화책을 읽고, 그에 대한 독후감을 작성할 수 있으며, 이를 통해 창의적인 사고와 글쓰기 능력을 향상시킬 수 있습니다.
-<img width="1000" alt="image" src="https://github.com/user-attachments/assets/b9992bc2-cc72-4e08-a80c-ceac9f741e9b">
-
+https://github.com/dodochoi/KT_AIVLE_BIGPROJECT/blob/main/AI%2022%EC%A1%B0%201p%20%EC%84%A4%EB%AA%85%EC%84%9C.pptx
 

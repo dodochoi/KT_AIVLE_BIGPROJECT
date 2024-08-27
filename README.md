@@ -60,6 +60,7 @@
 <img width="1000" alt="AI 22조 발표자료45" src="https://github.com/user-attachments/assets/4784ad2f-e45b-4ad2-bf8b-98aa0a1a7b90">
 <img width="1000" alt="AI 22조 발표자료46" src="https://github.com/user-attachments/assets/c979273c-cd4e-426f-b6e3-c10ea0d96de2">
 <img width="1000" alt="AI 22조 발표자료47" src="https://github.com/user-attachments/assets/5f03424e-2f49-4658-95c4-228cd62446c7">
-<img width="1000" alt="AI 22조 발표자료50" src="https://github.com/user-attachments/assets/6c039dc2-2690-4a29-bbe9-11094b0134fb">
-<img width="1000" alt="AI 22조 발표자료49" src="https://github.com/user-attachments/assets/74515a47-f890-4ce1-8e2f-29f19d520b9d">
 <img width="1000" alt="AI 22조 발표자료48" src="https://github.com/user-attachments/assets/c45b2581-9894-4d25-a98e-6f125c5c3c78">
+<img width="1000" alt="AI 22조 발표자료49" src="https://github.com/user-attachments/assets/74515a47-f890-4ce1-8e2f-29f19d520b9d">
+<img width="1000" alt="AI 22조 발표자료50" src="https://github.com/user-attachments/assets/6c039dc2-2690-4a29-bbe9-11094b0134fb">
+

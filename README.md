@@ -3,7 +3,7 @@
 2024 KT AIVLE SCHOOL BIGPROJECT
 
 프로젝트 링크 → [https://mealkid.kro.kr](https://mealkid.kro.kr/)
-
+---
 프로젝트 기간
 - 2024/6/17 ~ 2024/7/26
 

@@ -18,7 +18,6 @@
 <img width="1000" alt="AI 22조 1p 설명서01" src="https://github.com/user-attachments/assets/ea1cf2a8-5343-471b-8157-1f6fdf898f00">
 <img width="1000" alt="AI 22조 발표자료11" src="https://github.com/user-attachments/assets/3d87fa88-2ba1-4814-b1f8-ae7a4eb4e501">
 <img width="1000" alt="AI 22조 발표자료01" src="https://github.com/user-attachments/assets/a453583d-363b-4b4d-9afb-28a4e95f999c">
-<img width="1000" alt="AI 22조 발표자료02" src="https://github.com/user-attachments/assets/f108de58-2c3c-4dd6-8ad0-0852f2bf15c3">
 <img width="1000" alt="AI 22조 발표자료03" src="https://github.com/user-attachments/assets/687422d4-abe3-42cd-aff7-b5e8fc1e80a7">
 <img width="1000" alt="AI 22조 발표자료04" src="https://github.com/user-attachments/assets/7fb4a261-22fb-4135-a0ac-34e4c6760ff9">
 <img width="1000" alt="AI 22조 발표자료05" src="https://github.com/user-attachments/assets/e4f3123c-0ef8-4958-b6cc-56e3fd65fcab">
